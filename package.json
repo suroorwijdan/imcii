@@ -1,0 +1,28 @@
+{
+  "name": "imcii",
+  "version": "0.0.1",
+  "description": "A simple web application to convert images to ascii",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:suroorwijdan/imcii.git"
+  },
+  "keywords": [
+    "ascii",
+    "images",
+    "converter",
+    "app"
+  ],
+  "author": "Suroor Wijdan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suroorwijdan/imcii/issues"
+  },
+  "homepage": "https://github.com/suroorwijdan/imcii",
+  "dependencies": {
+    "image-to-ascii": "^0.1.1"
+  }
+}
